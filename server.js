@@ -22,6 +22,7 @@ mongoose.connection
 //Models
 const MusicSchema = new mongoose.Schema({
     artist: String,
+    profile: String,
     genre: String,
     url: String,
     song: String,
