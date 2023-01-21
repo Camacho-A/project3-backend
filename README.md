@@ -18,7 +18,7 @@ Music has the ability to bring people together. It has the power to transcend la
 - Trello
 
 ### Mockup Screenshots
-
+![Wireframe](https://i.imgur.com/cRkBW9h.png)
 
 ### Link to Planning Trello Board
 [Trello Board](https://trello.com/b/R18LUIEC/project-3)
